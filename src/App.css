@@ -1,0 +1,26 @@
+h1 {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.element {
+  border: 2px solid black;
+  box-shadow: 5px 5px 10px black;
+  width: 10vw;
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.button {
+  text-align: center;
+}
+
+button {
+  font-size: 3rem;
+}
